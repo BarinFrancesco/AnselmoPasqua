@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using LMyDataStructures;
+namespace ProgettoPasqua
+{
+    public class Fabbrica
+    {
+        public MyQueue<Uovo> CodaUova;
+        public readonly SemaphoreSlim MutexUova;
+
+        public Fabbrica (SemaphoreSlim Mutex, MyQueue<Uovo> Coda )
+        {
+            MutexUova = Mutex;
+            CodaUova = Coda;
+        }
+
+        public async Task GenerateEgg()
+        {
+            while (true)
+            {
+                Uovo UovoNuovo = new Uovo();
+          
+                await MutexUova.WaitAsync();
+                CodaUova.Enqueue(UovoNuovo);
+                MutexUova.Release();
+                await Task.Delay(Random.Shared.Next(750,1500));
+            }
+            
+        }
+
+    }
+}

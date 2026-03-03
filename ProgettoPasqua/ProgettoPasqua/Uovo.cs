@@ -20,10 +20,10 @@ namespace ProgettoPasqua
         {
             ID = count;
             count++;
-            GiveColor();
+            Paint();
         }
 
-        public void GiveColor()
+        public void Paint()
         {
             FirstColor = (Colori)Random.Shared.Next(0, Enum.GetValues<Colori>().Length); //sceglie un valore random tra 0 e il massimo numero, e lo "casta" in enum
             SecondColor = (Colori)Random.Shared.Next(0, Enum.GetValues<Colori>().Length);
