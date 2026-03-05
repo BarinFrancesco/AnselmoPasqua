@@ -10,23 +10,26 @@ namespace ProgettoPasqua
     {
         public MyQueue<Uovo> CodaUova;
         public readonly SemaphoreSlim MutexUova;
-
+        public int MaxEggs { get; set; }
         public Fabbrica (SemaphoreSlim Mutex, MyQueue<Uovo> Coda )
         {
             MutexUova = Mutex;
             CodaUova = Coda;
         }
 
-        public async Task GenerateEgg()
+        public async Task GenerateEgg(int n)
         {
-            while (true)
+            MaxEggs = n;
+
+            for(int i=0; i<MaxEggs; i++)
             {
                 Uovo UovoNuovo = new Uovo();
-          
+
                 await MutexUova.WaitAsync();
                 CodaUova.Enqueue(UovoNuovo);
+                Console.WriteLine($"La fabbrica ha prodotto l'uovo N {UovoNuovo.ID}, Colore1:{UovoNuovo.FirstColor} Colore2:{UovoNuovo.SecondColor}");
                 MutexUova.Release();
-                await Task.Delay(Random.Shared.Next(750,1500));
+                await Task.Delay(Random.Shared.Next(750, 1500));
             }
             
         }

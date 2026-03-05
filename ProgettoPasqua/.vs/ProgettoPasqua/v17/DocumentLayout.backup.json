@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\anselmopasqua\\progettopasqua\\progettopasqua\\anselmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|solutionrelative:progettopasqua\\anselmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\anselmopasqua\\progettopasqua\\progettopasqua\\fabbrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|solutionrelative:progettopasqua\\fabbrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\anselmopasqua\\progettopasqua\\progettopasqua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|solutionrelative:progettopasqua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\anselmopasqua\\progettopasqua\\progettopasqua\\uovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|solutionrelative:progettopasqua\\uovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\anselmopasqua\\progettopasqua\\progettopasqua\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD2D6E-E478-4E07-A3AB-524F9F78276A}|ProgettoPasqua\\ProgettoPasqua.csproj|solutionrelative:progettopasqua\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anselmo.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Anselmo.cs",
+              "RelativeDocumentMoniker": "ProgettoPasqua\\Anselmo.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Anselmo.cs",
+              "RelativeToolTip": "ProgettoPasqua\\Anselmo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:10:52.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fabbrica.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Fabbrica.cs",
+              "RelativeDocumentMoniker": "ProgettoPasqua\\Fabbrica.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Fabbrica.cs",
+              "RelativeToolTip": "ProgettoPasqua\\Fabbrica.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB0AAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:10:52.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uovo.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Uovo.cs",
+              "RelativeDocumentMoniker": "ProgettoPasqua\\Uovo.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Uovo.cs",
+              "RelativeToolTip": "ProgettoPasqua\\Uovo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:10:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Program.cs",
+              "RelativeDocumentMoniker": "ProgettoPasqua\\Program.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Program.cs",
+              "RelativeToolTip": "ProgettoPasqua\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:10:52.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Enum.cs",
+              "RelativeDocumentMoniker": "ProgettoPasqua\\Enum.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AnselmoPasqua\\ProgettoPasqua\\ProgettoPasqua\\Enum.cs",
+              "RelativeToolTip": "ProgettoPasqua\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:10:52.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
