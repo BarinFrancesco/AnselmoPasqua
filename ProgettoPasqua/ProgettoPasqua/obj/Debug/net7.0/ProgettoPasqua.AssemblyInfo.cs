@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgettoPasqua")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa008924d697e51902b1c2f3c199494013601551")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2040c9997d85842ca572ccafabb4f2fc42dd60af")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgettoPasqua")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgettoPasqua")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
